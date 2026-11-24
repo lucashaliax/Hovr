@@ -1,0 +1,2596 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ %@ is available": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ %@ está disponível"
+          }
+        }
+      }
+    },
+    "%lld active": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld ativos"
+          }
+        }
+      }
+    },
+    "%lld characters": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld caracteres"
+          }
+        }
+      }
+    },
+    "%lld days": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld dias"
+          }
+        }
+      }
+    },
+    "1 day": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 dia"
+          }
+        }
+      }
+    },
+    "A card left partly off the screen stays there. When off, it slides back onto the screen.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um card deixado parcialmente fora da tela fica lá. Desligado, ele volta para dentro da tela."
+          }
+        }
+      }
+    },
+    "A light tap on the trackpad when a card docks or the capture mode changes.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um toque leve no trackpad quando um card encaixa ou o modo de captura muda."
+          }
+        }
+      }
+    },
+    "A whole window": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uma janela inteira"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre"
+          }
+        }
+      }
+    },
+    "About Hovr": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre o Hovr"
+          }
+        }
+      }
+    },
+    "Add ⌃, ⌥ or ⌘": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use ⌃, ⌥ ou ⌘ junto"
+          }
+        }
+      }
+    },
+    "Advanced": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avançado"
+          }
+        }
+      }
+    },
+    "Allow Screen Recording": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permita a Gravação de Tela"
+          }
+        }
+      }
+    },
+    "Allowed": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitida"
+          }
+        }
+      }
+    },
+    "Allow…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir…"
+          }
+        }
+      }
+    },
+    "Another app already uses this shortcut": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Outro app já usa este atalho"
+          }
+        }
+      }
+    },
+    "App": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App"
+          }
+        }
+      }
+    },
+    "Background color": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cor de fundo"
+          }
+        }
+      }
+    },
+    "Bold": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Negrito"
+          }
+        }
+      }
+    },
+    "Bring back open": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trazer abertos"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelar"
+          }
+        }
+      }
+    },
+    "Capture": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura"
+          }
+        }
+      }
+    },
+    "Capture Image": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capturar imagem"
+          }
+        }
+      }
+    },
+    "Capture Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capturar texto"
+          }
+        }
+      }
+    },
+    "Capture anything on screen and keep it floating above every window as a visual reference, or copy its text.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capture qualquer coisa na tela e deixe flutuando acima de todas as janelas como referência visual, ou copie o texto."
+          }
+        }
+      }
+    },
+    "Capture on every display at once. When off, only the display with the pointer.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Captura em todas as telas ao mesmo tempo. Desligado, só na tela com o cursor."
+          }
+        }
+      }
+    },
+    "Capture the window under the pointer (when window click is on)": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capturar a janela sob o cursor (com \"Clique em janela\" ligado)"
+          }
+        }
+      }
+    },
+    "Captures are deleted after %lld days. Cards on screen are always kept.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As capturas são apagadas depois de %lld dias. Os cards na tela sempre ficam."
+          }
+        }
+      }
+    },
+    "Captures folder": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pasta das capturas"
+          }
+        }
+      }
+    },
+    "Captures in Recents are deleted after %lld days. Cards on screen are always kept.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As capturas em Recentes são apagadas depois de %lld dias. Os cards na tela sempre ficam."
+          }
+        }
+      }
+    },
+    "Captures stay in Recents until you delete them.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As capturas ficam em Recentes até você apagá-las."
+          }
+        }
+      }
+    },
+    "Captures stay until you delete them.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As capturas ficam até você apagá-las."
+          }
+        }
+      }
+    },
+    "Capturing": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capturando"
+          }
+        }
+      }
+    },
+    "Card opacity": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opacidade do card"
+          }
+        }
+      }
+    },
+    "Cards": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cards"
+          }
+        }
+      }
+    },
+    "Cards can hang past the screen edge": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cards podem passar da borda da tela"
+          }
+        }
+      }
+    },
+    "Cards move to the main display as they were: docked cards stay docked, open cards stay open.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os cards vão para a tela principal como estavam: encaixados continuam encaixados, abertos continuam abertos."
+          }
+        }
+      }
+    },
+    "Cards move to the middle of the main display, open.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os cards vão para o centro da tela principal, abertos."
+          }
+        }
+      }
+    },
+    "Change…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alterar…"
+          }
+        }
+      }
+    },
+    "Check Again": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procurar de novo"
+          }
+        }
+      }
+    },
+    "Check for Updates": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procurar atualizações"
+          }
+        }
+      }
+    },
+    "Check for updates automatically": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procurar atualizações automaticamente"
+          }
+        }
+      }
+    },
+    "Checking for updates…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procurando atualizações…"
+          }
+        }
+      }
+    },
+    "Checklist": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Checklist"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escolher"
+          }
+        }
+      }
+    },
+    "Clear": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpar"
+          }
+        }
+      }
+    },
+    "Clear History": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpar histórico"
+          }
+        }
+      }
+    },
+    "Clear Recents": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpar recentes"
+          }
+        }
+      }
+    },
+    "Clear recents": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpar recentes"
+          }
+        }
+      }
+    },
+    "Clear storage": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limpar armazenamento"
+          }
+        }
+      }
+    },
+    "Click Through": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deixar cliques passarem"
+          }
+        }
+      }
+    },
+    "Click a window or drag an area · Esc cancels": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique numa janela ou arraste uma área · Esc cancela"
+          }
+        }
+      }
+    },
+    "Click to pin on screen": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique para fixar na tela"
+          }
+        }
+      }
+    },
+    "Click to update.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique para atualizar."
+          }
+        }
+      }
+    },
+    "Click-through on. Turn it off from the menu bar.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cliques passam pelo card. Desative pela barra de menus."
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fechar"
+          }
+        }
+      }
+    },
+    "Close All Cards": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fechar todos os cards"
+          }
+        }
+      }
+    },
+    "Close All Cards (%lld)": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fechar todos os cards (%lld)"
+          }
+        }
+      }
+    },
+    "Close card": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fechar card"
+          }
+        }
+      }
+    },
+    "Copy Image": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar imagem"
+          }
+        }
+      }
+    },
+    "Copy Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar texto"
+          }
+        }
+      }
+    },
+    "Copy all": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar tudo"
+          }
+        }
+      }
+    },
+    "Copy text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar texto"
+          }
+        }
+      }
+    },
+    "Copy the image to the clipboard": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar a imagem para a área de transferência"
+          }
+        }
+      }
+    },
+    "Coral": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coral"
+          }
+        }
+      }
+    },
+    "Couldn't capture the screen": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível capturar a tela"
+          }
+        }
+      }
+    },
+    "Couldn't reach GitHub. Check your connection and try again.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível acessar o GitHub. Verifique a conexão e tente de novo."
+          }
+        }
+      }
+    },
+    "Couldn't read the latest release. Try again later.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível ler a versão mais recente. Tente mais tarde."
+          }
+        }
+      }
+    },
+    "Couldn't replace the app in its folder. Download it from the release page instead.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível substituir o app na pasta. Baixe pela página do release."
+          }
+        }
+      }
+    },
+    "Custom": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personalizada"
+          }
+        }
+      }
+    },
+    "Default color": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cor padrão"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apagar"
+          }
+        }
+      }
+    },
+    "Delete All": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apagar tudo"
+          }
+        }
+      }
+    },
+    "Delete all captures?": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apagar todas as capturas?"
+          }
+        }
+      }
+    },
+    "Deletes the captures in Recents. Cards on screen stay.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apaga as capturas em Recentes. Os cards na tela ficam."
+          }
+        }
+      }
+    },
+    "Developed by": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desenvolvido por"
+          }
+        }
+      }
+    },
+    "Dock · click to bring back": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Encaixa · clique para voltar"
+          }
+        }
+      }
+    },
+    "Double-click": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique duplo"
+          }
+        }
+      }
+    },
+    "Double-click a text card to edit it. When off, click once to select a card and again to edit.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique duplo num card de texto para editar. Desligado, clique uma vez para selecionar e de novo para editar."
+          }
+        }
+      }
+    },
+    "Double-click an image": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique duplo numa imagem"
+          }
+        }
+      }
+    },
+    "Double-click to edit": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique duplo para editar"
+          }
+        }
+      }
+    },
+    "Downloading…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baixando…"
+          }
+        }
+      }
+    },
+    "Drag": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastar"
+          }
+        }
+      }
+    },
+    "Drag a card with two fingers on the trackpad and flick to throw it. Text that scrolls still scrolls.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arraste um card com dois dedos no trackpad e dê um peteleco para arremessar. Texto que rola continua rolando."
+          }
+        }
+      }
+    },
+    "Drag an area · Esc cancels": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arraste uma área · Esc cancela"
+          }
+        }
+      }
+    },
+    "Drag an edge": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastar uma borda"
+          }
+        }
+      }
+    },
+    "Drag or throw to a screen edge": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastar ou arremessar até a borda"
+          }
+        }
+      }
+    },
+    "Drag to move, drag an edge to resize, pinch or ⌘-scroll to zoom, ⌥-scroll for opacity, double-click for original size, Esc to close.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arraste para mover, arraste uma borda para redimensionar, use pinça ou ⌘ + rolagem para zoom, ⌥ + rolagem para opacidade, clique duplo para o tamanho original, Esc para fechar."
+          }
+        }
+      }
+    },
+    "Drag, or two fingers": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastar, ou dois dedos"
+          }
+        }
+      }
+    },
+    "Easy": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leve"
+          }
+        }
+      }
+    },
+    "Edit text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar texto"
+          }
+        }
+      }
+    },
+    "Editing text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editando texto"
+          }
+        }
+      }
+    },
+    "Empty note": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nota vazia"
+          }
+        }
+      }
+    },
+    "Every setting back to its default. Cards and captures stay.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todos os ajustes voltam ao padrão. Cards e capturas ficam."
+          }
+        }
+      }
+    },
+    "Extract Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extrair texto"
+          }
+        }
+      }
+    },
+    "Finish editing": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminar edição"
+          }
+        }
+      }
+    },
+    "Firm": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Firme"
+          }
+        }
+      }
+    },
+    "Fixed color": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cor fixa"
+          }
+        }
+      }
+    },
+    "For new text cards.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para novos cards de texto."
+          }
+        }
+      }
+    },
+    "For pinch to zoom on cards while you work in another app. Hovr only listens to trackpad gestures.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para a pinça dar zoom nos cards enquanto você usa outro app. O Hovr só escuta gestos do trackpad."
+          }
+        }
+      }
+    },
+    "Free-form selection": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleção livre"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geral"
+          }
+        }
+      }
+    },
+    "Gestures": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gestos"
+          }
+        }
+      }
+    },
+    "Global": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Globais"
+          }
+        }
+      }
+    },
+    "Grant Access": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir acesso"
+          }
+        }
+      }
+    },
+    "Granted": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitida"
+          }
+        }
+      }
+    },
+    "Haptic feedback": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resposta tátil"
+          }
+        }
+      }
+    },
+    "Hide cards during capture": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esconder cards durante a captura"
+          }
+        }
+      }
+    },
+    "Hide or show cards": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esconder ou mostrar cards"
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Histórico"
+          }
+        }
+      }
+    },
+    "History…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Histórico…"
+          }
+        }
+      }
+    },
+    "Hold and click the corners of what to keep": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Segure e clique nos cantos do que quer manter"
+          }
+        }
+      }
+    },
+    "Hovr Settings": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes do Hovr"
+          }
+        }
+      }
+    },
+    "Hovr doesn't track what you do. Captures stay on your Mac.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Hovr não rastreia o que você faz. As capturas ficam no seu Mac."
+          }
+        }
+      }
+    },
+    "Hovr is up to date": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Hovr está atualizado"
+          }
+        }
+      }
+    },
+    "Hovr moves your captures to the folder you choose and saves new ones there.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Hovr move suas capturas para a pasta escolhida e salva as novas lá."
+          }
+        }
+      }
+    },
+    "Hovr needs Screen Recording to capture the area you select. Turn on Hovr in System Settings → Privacy & Security → Screen & System Audio Recording, then quit and reopen Hovr.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Hovr precisa da Gravação de Tela para capturar a área que você seleciona. Ative o Hovr em Ajustes do Sistema → Privacidade e Segurança → Gravação de Tela e Áudio do Sistema, depois feche e abra o Hovr de novo."
+          }
+        }
+      }
+    },
+    "Hovr needs to relaunch to change the language.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Hovr precisa reabrir para trocar o idioma."
+          }
+        }
+      }
+    },
+    "How hard a flick must be to throw a card.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A força do peteleco para arremessar um card."
+          }
+        }
+      }
+    },
+    "Image": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Imagem"
+          }
+        }
+      }
+    },
+    "Image  ·  Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Imagem  ·  Texto"
+          }
+        }
+      }
+    },
+    "Image captures float above every window, right where you selected them.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As capturas de imagem flutuam acima de todas as janelas, no lugar onde você selecionou."
+          }
+        }
+      }
+    },
+    "Image captures float above every window.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As capturas de imagem flutuam acima de todas as janelas."
+          }
+        }
+      }
+    },
+    "Image cards": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cards de imagem"
+          }
+        }
+      }
+    },
+    "Image copied": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Imagem copiada"
+          }
+        }
+      }
+    },
+    "Ink": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinta"
+          }
+        }
+      }
+    },
+    "Input Monitoring": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitoramento de Entrada"
+          }
+        }
+      }
+    },
+    "Install and Relaunch": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instalar e reabrir"
+          }
+        }
+      }
+    },
+    "Installing…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instalando…"
+          }
+        }
+      }
+    },
+    "Interaction": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interação"
+          }
+        }
+      }
+    },
+    "Italic": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Itálico"
+          }
+        }
+      }
+    },
+    "Keep captures": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar capturas"
+          }
+        }
+      }
+    },
+    "Keep captures for": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar capturas por"
+          }
+        }
+      }
+    },
+    "Kept for %lld days": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardadas por %lld dias"
+          }
+        }
+      }
+    },
+    "Kept until you delete them": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardadas até você apagar"
+          }
+        }
+      }
+    },
+    "Language": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma"
+          }
+        }
+      }
+    },
+    "Larger with +, smaller with −": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maior com +, menor com −"
+          }
+        }
+      }
+    },
+    "Lavender": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lavanda"
+          }
+        }
+      }
+    },
+    "Lemon": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limão"
+          }
+        }
+      }
+    },
+    "Lock": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloquear"
+          }
+        }
+      }
+    },
+    "Lock or unlock": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloquear ou desbloquear"
+          }
+        }
+      }
+    },
+    "Locked": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloqueado"
+          }
+        }
+      }
+    },
+    "Make Cards Clickable Again": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voltar a aceitar cliques nos cards"
+          }
+        }
+      }
+    },
+    "Mint": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menta"
+          }
+        }
+      }
+    },
+    "Move": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover"
+          }
+        }
+      }
+    },
+    "Move as they are": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover como estão"
+          }
+        }
+      }
+    },
+    "Multiple displays": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Várias telas"
+          }
+        }
+      }
+    },
+    "Needed to capture the screen.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Necessária para capturar a tela."
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nunca"
+          }
+        }
+      }
+    },
+    "No captures yet": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhuma captura ainda"
+          }
+        }
+      }
+    },
+    "No text found": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhum texto encontrado"
+          }
+        }
+      }
+    },
+    "Normal": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        }
+      }
+    },
+    "Nudge (⇧ for 10 pt)": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover de leve (⇧ para 10 pt)"
+          }
+        }
+      }
+    },
+    "On a card": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Num card"
+          }
+        }
+      }
+    },
+    "Once a week.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uma vez por semana."
+          }
+        }
+      }
+    },
+    "Opacity": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opacidade"
+          }
+        }
+      }
+    },
+    "Open Recents": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Recentes"
+          }
+        }
+      }
+    },
+    "Open System Settings": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Ajustes do Sistema"
+          }
+        }
+      }
+    },
+    "Open at login": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir ao iniciar sessão"
+          }
+        }
+      }
+    },
+    "Open cards stay out of the frozen screen and new captures.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os cards abertos ficam fora da tela congelada e das novas capturas."
+          }
+        }
+      }
+    },
+    "Open note": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir nota"
+          }
+        }
+      }
+    },
+    "Options": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opções"
+          }
+        }
+      }
+    },
+    "Original Size": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamanho original"
+          }
+        }
+      }
+    },
+    "Original size": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamanho original"
+          }
+        }
+      }
+    },
+    "Paste as plain text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Colar como texto simples"
+          }
+        }
+      }
+    },
+    "Peach": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pêssego"
+          }
+        }
+      }
+    },
+    "Permission": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permissão"
+          }
+        }
+      }
+    },
+    "Permissions": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permissões"
+          }
+        }
+      }
+    },
+    "Pin on Screen": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixar na tela"
+          }
+        }
+      }
+    },
+    "Pin on screen": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixar na tela"
+          }
+        }
+      }
+    },
+    "Pin the image on screen": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixar a imagem na tela"
+          }
+        }
+      }
+    },
+    "Pinch or ⌘ + scroll": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pinça ou ⌘ + rolagem"
+          }
+        }
+      }
+    },
+    "Pinned cards stay open until you close them.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os cards fixados continuam abertos até você fechá-los."
+          }
+        }
+      }
+    },
+    "Press %@ and select an area. Captures stay here for %lld days.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aperte %@ e selecione uma área. As capturas ficam aqui por %lld dias."
+          }
+        }
+      }
+    },
+    "Press %@ and select an area. Your captures show up here.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aperte %@ e selecione uma área. Suas capturas aparecem aqui."
+          }
+        }
+      }
+    },
+    "Press it again while selecting to switch Image / Text.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aperte de novo durante a seleção para alternar Imagem / Texto."
+          }
+        }
+      }
+    },
+    "Press keys…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aperte as teclas…"
+          }
+        }
+      }
+    },
+    "Quit Hovr": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sair do Hovr"
+          }
+        }
+      }
+    },
+    "Random": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aleatória"
+          }
+        }
+      }
+    },
+    "Recent": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recentes"
+          }
+        }
+      }
+    },
+    "Recents": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recentes"
+          }
+        }
+      }
+    },
+    "Record shortcut": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gravar atalho"
+          }
+        }
+      }
+    },
+    "Relaunch": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reabrir"
+          }
+        }
+      }
+    },
+    "Release Notes": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notas da versão"
+          }
+        }
+      }
+    },
+    "Remove shortcut": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remover atalho"
+          }
+        }
+      }
+    },
+    "Reopen cards after a restart": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reabrir os cards depois de reiniciar"
+          }
+        }
+      }
+    },
+    "Reopen cards when Hovr opens": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reabrir os cards quando o Hovr abrir"
+          }
+        }
+      }
+    },
+    "Reset": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurar"
+          }
+        }
+      }
+    },
+    "Reset all settings": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurar todos os ajustes"
+          }
+        }
+      }
+    },
+    "Reset all settings?": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurar todos os ajustes?"
+          }
+        }
+      }
+    },
+    "Reset to Default": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurar padrão"
+          }
+        }
+      }
+    },
+    "Resize": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redimensionar"
+          }
+        }
+      }
+    },
+    "Rose": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rosa"
+          }
+        }
+      }
+    },
+    "Sand": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Areia"
+          }
+        }
+      }
+    },
+    "Save Image…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salvar imagem…"
+          }
+        }
+      }
+    },
+    "Screen Recording": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gravação de Tela"
+          }
+        }
+      }
+    },
+    "Screen Recording allowed": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gravação de Tela permitida"
+          }
+        }
+      }
+    },
+    "Screen Recording not allowed": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gravação de Tela não permitida"
+          }
+        }
+      }
+    },
+    "Search text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar texto"
+          }
+        }
+      }
+    },
+    "Set opacity from 10 to 90% with keys 1–9, and 100% with 0": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opacidade de 10 a 90% com as teclas 1–9, e 100% com 0"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes…"
+          }
+        }
+      }
+    },
+    "Shortcut": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atalho"
+          }
+        }
+      }
+    },
+    "Shortcuts": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atalhos"
+          }
+        }
+      }
+    },
+    "Show in Finder": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar no Finder"
+          }
+        }
+      }
+    },
+    "Shutter sound on capture": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Som de obturador ao capturar"
+          }
+        }
+      }
+    },
+    "Silver": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prata"
+          }
+        }
+      }
+    },
+    "Sky": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Céu"
+          }
+        }
+      }
+    },
+    "Sound & haptics": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sons e tátil"
+          }
+        }
+      }
+    },
+    "Sound effects": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Efeitos sonoros"
+          }
+        }
+      }
+    },
+    "Space": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Espaço"
+          }
+        }
+      }
+    },
+    "Square selection": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seleção quadrada"
+          }
+        }
+      }
+    },
+    "Standard size": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamanho padrão"
+          }
+        }
+      }
+    },
+    "Start capture with": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Começar a captura em"
+          }
+        }
+      }
+    },
+    "Start in": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Começar em"
+          }
+        }
+      }
+    },
+    "Storage": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Armazenamento"
+          }
+        }
+      }
+    },
+    "Strikethrough": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tachado"
+          }
+        }
+      }
+    },
+    "Switch Image / Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alternar Imagem / Texto"
+          }
+        }
+      }
+    },
+    "Tab switches Image / Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tab alterna Imagem / Texto"
+          }
+        }
+      }
+    },
+    "Tab switches mode while selecting.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tab troca o modo durante a seleção."
+          }
+        }
+      }
+    },
+    "Tab: Image / Text · Space: window · ⌥: free-form": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tab: Imagem / Texto · Espaço: janela · ⌥: livre"
+          }
+        }
+      }
+    },
+    "Text": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texto"
+          }
+        }
+      }
+    },
+    "Text copied": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texto copiado"
+          }
+        }
+      }
+    },
+    "Text or image": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texto ou imagem"
+          }
+        }
+      }
+    },
+    "Text size": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamanho do texto"
+          }
+        }
+      }
+    },
+    "The download failed. Try again.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O download falhou. Tente de novo."
+          }
+        }
+      }
+    },
+    "The downloaded app isn't signed by the same developer. Nothing was changed.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O app baixado não foi assinado pelo mesmo desenvolvedor. Nada foi alterado."
+          }
+        }
+      }
+    },
+    "The downloaded app isn't this app's new version. Nothing was changed.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O app baixado não é a nova versão deste app. Nada foi alterado."
+          }
+        }
+      }
+    },
+    "The downloaded file is damaged.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O arquivo baixado está danificado."
+          }
+        }
+      }
+    },
+    "The new version has no file to install yet.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A nova versão ainda não tem arquivo para instalar."
+          }
+        }
+      }
+    },
+    "The pointer moves with it. Flick to throw it; throw it at a screen edge to dock it.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O cursor acompanha. Dê um peteleco para arremessar; arremesse na borda da tela para encaixar."
+          }
+        }
+      }
+    },
+    "The quick brown fox jumps over the lazy dog": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A ligeira raposa marrom pula sobre o cão preguiçoso"
+          }
+        }
+      }
+    },
+    "The shutter as you capture, the whoosh as a card flies.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O obturador ao capturar, o whoosh quando um card voa."
+          }
+        }
+      }
+    },
+    "This app has no update source.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este app não tem fonte de atualizações."
+          }
+        }
+      }
+    },
+    "Throw intensity": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Força do arremesso"
+          }
+        }
+      }
+    },
+    "To capture anything on your screen.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para capturar qualquer coisa na tela."
+          }
+        }
+      }
+    },
+    "Today, %@": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoje, %@"
+          }
+        }
+      }
+    },
+    "Try Again": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tentar de novo"
+          }
+        }
+      }
+    },
+    "Two-finger card movement": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover cards com dois dedos"
+          }
+        }
+      }
+    },
+    "Two-finger scroll moves a card": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rolagem com dois dedos move o card"
+          }
+        }
+      }
+    },
+    "Type something…": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Digite algo…"
+          }
+        }
+      }
+    },
+    "Underline": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sublinhado"
+          }
+        }
+      }
+    },
+    "Unlock": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear"
+          }
+        }
+      }
+    },
+    "Unlocked": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloqueado"
+          }
+        }
+      }
+    },
+    "Use Hovr on multiple displays": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usar o Hovr em várias telas"
+          }
+        }
+      }
+    },
+    "Version %@": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versão %@"
+          }
+        }
+      }
+    },
+    "Version %@ is available": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A versão %@ está disponível"
+          }
+        }
+      }
+    },
+    "When a display is disconnected": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quando uma tela é desconectada"
+          }
+        }
+      }
+    },
+    "While selecting": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durante a seleção"
+          }
+        }
+      }
+    },
+    "While selecting, press Tab (or the shortcut again) to switch between Image and Text. Text mode copies the text it reads in the area.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durante a seleção, aperte Tab (ou o atalho de novo) para alternar entre Imagem e Texto. O modo Texto copia o texto que encontrar na área."
+          }
+        }
+      }
+    },
+    "White": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Branco"
+          }
+        }
+      }
+    },
+    "Whoosh when a card is thrown": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whoosh ao arremessar um card"
+          }
+        }
+      }
+    },
+    "Window click": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique em janela"
+          }
+        }
+      }
+    },
+    "With a mouse wheel, scrolling zooms.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com a roda do mouse, a rolagem dá zoom."
+          }
+        }
+      }
+    },
+    "Yesterday, %@": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontem, %@"
+          }
+        }
+      }
+    },
+    "Your captures show up here.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suas capturas aparecem aqui."
+          }
+        }
+      }
+    },
+    "Your recent images and text, to pin or copy again.": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suas imagens e textos recentes, para fixar ou copiar de novo."
+          }
+        }
+      }
+    },
+    "Zoom": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zoom"
+          }
+        }
+      }
+    },
+    "⌥ + scroll": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "⌥ + rolagem"
+          }
+        }
+      }
+    },
+    "⌥ + scroll or 1–9": {
+      "localizations": {
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "⌥ + rolagem ou 1–9"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
